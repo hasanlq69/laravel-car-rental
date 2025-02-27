@@ -8,7 +8,8 @@
 </p>
 
 ## Laravel Car Rental 
-<h3>made using laravel 11</h3>
+<h3>Made using laravel 11</h3>
+<img width="1279" alt="Image" src="https://github.com/user-attachments/assets/fe01b1f2-1530-45bf-be56-5f64db16e02a" />
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
