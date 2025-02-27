@@ -8,7 +8,7 @@
                 <div class="main-menu__nav">
                     <ul class="main-menu__list">
                         <li>
-                            <a href="">Home</a>
+                            <a href="{{ url('/') }}">Home</a>
                         </li>
                         <li>
                             <a href="{{ route('about') }}">About us</a>

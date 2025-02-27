@@ -123,8 +123,8 @@
             </div>
         </div>
         <div class="hr-line  bg-light-gray"></div>
-        <p class="mt-32 pb-32 text-center">@2024 All Rights Copyright <span
+        <p class="mt-32 pb-32 text-center">@2025 All Rights Copyright <span
                 class="fw-700 color-sec">Rental Mobil.</span>
-            Design & Developed By Lagikoding</p>
+            Design & Developed By Muhammad Hasan</p>
     </div>
 </footer>
